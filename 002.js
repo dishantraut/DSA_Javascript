@@ -35,7 +35,7 @@ function addUpToCase2(n) {
         ---------------------------------------------------------------
         Total Operaitons = 3
         ---------------------------------------------------------------
-        3 simple operations regardless of the size of n. The value of (n) does not mater because there are only 3 calculations that are happening.
+        3 simple operations regardless of the size of n. The value of (n) does not matter because there are only 3 calculations that are happening.
     */
 }
 
